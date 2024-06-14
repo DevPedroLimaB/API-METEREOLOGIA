@@ -1,3 +1,5 @@
+import './style.css';
+
 function Home() {
   return <div id="Home">
       <h1>API de Meteorologia</h1>
